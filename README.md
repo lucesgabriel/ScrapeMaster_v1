@@ -1,4 +1,5 @@
 Universal Web Scraper 🦑
+
 Este proyecto es una aplicación universal de scraping web que permite extraer datos de sitios web y convertirlos en un formato estructurado. Utiliza diversas APIs de inteligencia artificial para mejorar la detección de paginación y generar datos estructurados en formato JSON o CSV.
 
 Estructura del Proyecto
